@@ -43,7 +43,3 @@ This repository is intended for educational and archival purposes.
 All scripts belong to their respective original authors. Credit goes to the original creators wherever known.
 
 This repository is not affiliated with or endorsed by Roblox or the developers of Forsaken.
-
-## ⭐ Support
-
-If you find this repository useful, consider giving it a star!
